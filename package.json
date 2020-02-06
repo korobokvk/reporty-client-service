@@ -1,0 +1,19 @@
+{
+  "name": "reporty-client-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.7.0"
+  },
+  "devDependencies": {
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
+  }
+}
